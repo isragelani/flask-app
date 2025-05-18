@@ -14,4 +14,3 @@ This is a simple Flask application that includes:
 - SQLite database via SQLAlchemy
 - Bootstrap styling
 - Custom 404 and 500 error pages
-- 
